@@ -1,2 +1,4 @@
 # Conceptis
-Conceptis - is webpage analog for future interfaces and concepts for OpenApoc and X-Com Apocalypse
+Conceptis - is webpage analog of X-Com Apocalypse for future interfaces and concepts in OpenApoc and mods use
+
+Its planned in PHP + MYSQL
