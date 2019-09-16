@@ -3,10 +3,10 @@ Conceptis - is webpage analog of X-Com Apocalypse for future interfaces and conc
 
 Features:
 - adding Ufopaedia articles 
-(info, history, reports, guides, interrogation results, analytics from AI, human biochemistry...)
+-- (info, history, reports, guides, interrogation results, analytics from AI, human biochemistry...)
 - New Categories
-(History, Analytics, Agents cases and missions...)
+-- (History, Analytics, Agents cases and missions...)
 - adding any other picture of concept interface
-(agent equipment concept, diplomacy interface concept, globe and solar system interface concept...)
+-- (agent equipment concept, diplomacy interface concept, globe and solar system interface concept...)
 
 Its planned in PHP + MYSQL
