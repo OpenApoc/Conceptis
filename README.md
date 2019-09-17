@@ -1,5 +1,5 @@
 # Conceptis
-Conceptis - is webpage analog of X-Com Apocalypse for future interfaces and concepts in OpenApoc and mods use
+> Conceptis - is webpage analog of X-Com Apocalypse for future interfaces and concepts in OpenApoc and mods use. Its can be navigated like in the game.
 
 Features:
 * adding Ufopaedia articles 
