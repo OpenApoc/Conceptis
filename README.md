@@ -17,6 +17,15 @@
   * new reports dossier like at our agents and targeted individuals, ceos, enemy spies
 * adding any other picture of concept interface
   * (agent equipment concept, diplomacy interface concept, globe and solar system interface concept...)
+* each report will have feedbacks section where ppl can leave their opinion or idea for improvement
+* Also when user will add report he will subscribe for feedbacks at his report
+* User can subscribe at Home page for new reports additions at his email
+* there maybe will be likes and views counters
+ 
+This additions in future can be part of mods for OpenApoc that adds in game
+extended Ufopaedia mod and Events mod. 
+Both mods will have random triggers or items to unlock reports...
+Its free for all and can be used in other mods...
 
 Its planned in PHP + MYSQL
 
