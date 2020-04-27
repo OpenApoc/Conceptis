@@ -30,16 +30,16 @@ Events mod is can use following topics for events:
 
 News describes events that occur in the world and the player himself will need to draw conclusions about how the news can affect the organization or the delivery of goods (or prices) at the end of the week.
 
-News exemples:
-        * news about new places where found elerium for extraction
-        * news about difficult economic situation of the organization or bankruptcy, corruption
-        * Hacker attack which led to negative consequences or to the leakage of secret data , major exposure
-        * separatists who came to victory or defeat, riots, food riots
-        * news about financial fraud
-        * natural disasters that affected other cities:
-        mega-tsunami, mega-hurricanes, mega-fires, the fall of a meteorite or an old satellite into the city, accidents on large objects
-        * news about breakthrough new technologies, satellite launches, weather control/weapon or terraforming satellites, early warning satellites, heads in the jar
-        * the actions of the Investigation Committee
+### News exemples:
+* news about new places where found elerium for extraction
+* news about difficult economic situation of the organization or bankruptcy, corruption
+* Hacker attack which led to negative consequences or to the leakage of secret data , major exposure
+* separatists who came to victory or defeat, riots, food riots
+* news about financial fraud
+* natural disasters that affected other cities:
+mega-tsunami, mega-hurricanes, mega-fires, the fall of a meteorite or an old satellite into the city, accidents on large objects
+* news about breakthrough new technologies, satellite launches, weather control/weapon or terraforming satellites, early warning satellites, heads in the jar
+* the actions of the Investigation Committee
 
 ## Extended Ufopaedia
 
