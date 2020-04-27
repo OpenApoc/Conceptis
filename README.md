@@ -17,6 +17,8 @@
   * new reports dossier like at our agents and targeted individuals, ceos, enemy spies
 * adding any other picture of concept interface
   * (agent equipment concept, diplomacy interface concept, globe and solar system interface concept...)
+## Key Functions:
+* downlodable psd template for report background image
 * each report will have feedbacks section where ppl can leave their opinion or idea for improvement
 * also when user will add report he will subscribe for feedbacks at his report
 * user can subscribe at Home page for new reports additions at his email
@@ -39,7 +41,7 @@ Events mod is can use following topics for events:
 
 News describes events that occur in the world and the player himself will need to draw conclusions about how the news can affect the organization or the delivery of goods (or prices) at the end of the week.
 
-### News exemples:
+### Events/news exemples:
 * news about new places where found elerium for extraction
 * news about difficult economic situation of the organization or bankruptcy, corruption
 * Hacker attack which led to negative consequences or to the leakage of secret data , major exposure
@@ -50,7 +52,7 @@ mega-tsunami, mega-hurricanes, mega-fires, the fall of a meteorite or an old sat
 * news about breakthrough new technologies, satellite launches, weather control/weapon or terraforming satellites, early warning satellites, heads in the jar
 * the actions of the Investigation Committee
 
-## Extended Ufopaedia
+## Extended Ufopaedia Mod
 
 Simple mod that allow easy add new reports in ufopaedia.
 
