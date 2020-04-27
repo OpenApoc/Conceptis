@@ -1,5 +1,5 @@
 # Conceptis
-> Conceptis - it is a web service for uploading new reports to ufopedia, reports can be just ideas for mods and can be used by anyone. Reports can also be loaded for things from mods that are in development. Also, a concept image of new interfaces can be uploaded here to inspire and help mod creators in their work...
+> Conceptis - it is a web service for uploading new reports (text and background image) to ufopedia, reports can be just ideas for mods and can be used by anyone. Reports can also be loaded for things from mods that are in development. Also, a concept image of new interfaces can be uploaded here to inspire and help mod creators in their work...
 
 [![Openapoc Discord](https://img.shields.io/discord/142798944970211328.svg?label=discord)](https://discord.gg/f8Rayre)
 [![Openapoc OpenApoc_Wiki](https://img.shields.io/badge/OpenApoc-Wiki-blue.svg)](https://www.ufopaedia.org/index.php/OpenApoc)
